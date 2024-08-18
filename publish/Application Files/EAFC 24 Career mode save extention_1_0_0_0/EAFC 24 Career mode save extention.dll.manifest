@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="EAFC 24 Career mode save extention.exe" version="1.0.0.0" publicKeyToken="bf737a2172a6a5da" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Launcher.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="17344">
+      <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>60iP3OQeJW3vOZ+DJwlSa5g0NK3Cflllh5iu5LVPIdU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="EAFC 24 Career mode save extention.deps.json" size="494">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bn7ovdG/WFwIzwtRTwZaEZ5r2uIzNa7Vfn4jNsVclT8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="EAFC 24 Career mode save extention.dll" size="193472">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WpLIZG21UMhEKijsqcMkWECvl4BM/FArXAWIXH3mmmg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="EAFC 24 Career mode save extention.exe" size="144320">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pkjfdqyyt9nrdKJV0rmkdBR3hhXzZv8mNbkXYeLbftM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="EAFC 24 Career mode save extention.runtimeconfig.json" size="458">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xxFSvyXkDWR7JEDFs5vhV6PTVhBr6dW2eKuXu4e054I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=KOSIGAB-PC\kosig" issuerKeyHash="47195b47e234a01a13e58894b456638c3d718ea4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>y+bE3Y6YBmaATsOORCIHPIEx23WzrdB8MojtpnHBps0=</DigestValue></Reference></SignedInfo><SignatureValue>JCJ5+xuJLcEV4fZwcauoQeDdtBWwWrs6yRz0iExgSMBtX51JqaA9CYHeVCF5dW2D9rB9wUKTmI0M4uyk7HMI5IMGkuNy2dtsV4q4dojeu6IUY4Cc5HjXWjWX6PfVbNgDecNagWpnK1b8YhS7a7oEhQllC+zvWwxGJblgKxOlpM4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>67nL62ruD7fo68amJp7xupIWafwTanvMPxqOC13EnWLo63a/IFJjEbwD+UQ+kkFZdQdKjVRFZxVY0USOmAkHk2a6RNruPiTgNEKzCzJ6MWQFfyVu8xkkChrIaobWe1T+Uow1uJlbe7fpeAUHVqMXPUkl7AfY9yEo7SAB1ZrRzJk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cda6c171a6ed88327cd0adb375db31813c0722448ec34e806606988eddc4e6cb" Description="" Url=""><as:assemblyIdentity name="EAFC 24 Career mode save extention.exe" version="1.0.0.0" publicKeyToken="bf737a2172a6a5da" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KOSIGAB-PC\kosig</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>KgDGQ14hNa8Q83e/4I7tGIYOphUdM/0RQ+vB+25l6JE=</DigestValue></Reference></SignedInfo><SignatureValue>dxoOVcdMRH3H8qDRF+AVWZkZTNc8JfRNHVg4s8djSaEkw0bgroTGJYapNmggEVBOrEURLAWnnze5EycD6/b4RGz+fTxHS93B8g1h9SOKkg2O+MRMFVGvCWxhqVmAHIRY/37n60wK8/xTkVbet9pit+069L1kmB8Idt9adc1xfSs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>67nL62ruD7fo68amJp7xupIWafwTanvMPxqOC13EnWLo63a/IFJjEbwD+UQ+kkFZdQdKjVRFZxVY0USOmAkHk2a6RNruPiTgNEKzCzJ6MWQFfyVu8xkkChrIaobWe1T+Uow1uJlbe7fpeAUHVqMXPUkl7AfY9yEo7SAB1ZrRzJk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQQD8cTfFzs4RIX6ekWfno2jANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAASwBPAFMASQBHAEEAQgAtAFAAQwBcAGsAbwBzAGkAZzAeFw0yNDA4MTgyMjQ3MDJaFw0yNTA4MTkwNDQ3MDJaMCsxKTAnBgNVBAMeIABLAE8AUwBJAEcAQQBCAC0AUABDAFwAawBvAHMAaQBnMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDrucvrau4Pt+jrxqYmnvG6khZp/BNqe8w/Go4LXcSdYujrdr8gUmMRvAP5RD6SQVl1B0qNVEVnFVjRRI6YCQeTZrpE2u4+JOA0QrMLMnoxZAV/JW7zGSQKGshqhtZ7VP5SjDW4mVt7t+l4BQdWoxc9SSXsB9j3ISjtIAHVmtHMmQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAECVuiJT7s/zezcEfinxZMox/nl0XF6cmgF2GuO7G4+JElhPNCZ0y5JuD32CceASZ0A4J3rYAlC2nXRqbLl4EeQ3hTgnCRBCeqIXfXDGaabNtdPfqlATAyw5b47G2BgO4x00Y5lvQrGQyZ3sd2Yiscf7dXyf19Nk43amvTNRLpDR</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
