@@ -3,11 +3,13 @@
 ### **Overview**
 
 **EAFC24 Career Mode Save Extension** is a mod designed to enhance the **EAFC24 Career Mode** experience by overcoming the game's restrictive save system. This tool allows players to maintain multiple autosaves, manage manual saves, and effectively back up and restore career progress, ensuring that your hard work is never lost.
+![image](https://github.com/user-attachments/assets/7b43fdc2-cc75-4281-b27e-6cf9fa070fea)
 
 ### **Key Features**
 
 - **Increased Autosave Capacity**  
   Automatically backs up and manages multiple autosaves, allowing you to keep more than the default number of autosaves.
+![image](https://github.com/user-attachments/assets/71dfb335-65c4-402d-af41-6eed8b3728ce)
 
 - **Seamless Integration**  
   Runs quietly in the background, automatically syncing and restoring save files as you play.
@@ -23,6 +25,41 @@
 
 - **System Tray Integration**  
   Minimizes to the system tray, allowing you to easily access or exit the application without interrupting gameplay.
+
+  ### **Usage**
+
+#### **Launch the Application:**
+
+- **Runs in the Background**  
+  The application runs in the background and minimizes to the system tray after startup.
+
+- **Automatic Save Management**  
+  It automatically starts managing your EAFC24 saves as you play, ensuring your progress is always backed up and protected.
+
+- **Startup Integration**  
+  The application automatically adds itself to the startup apps, so it launches every time you start your computer, ensuring your saves are managed without needing to manually start the application.
+
+#### **Configure Settings:**
+
+- **Customize Autosaves and Backup Frequency**  
+  Use the UI to set the number of autosaves you want to keep and adjust the backup frequency according to your preferences.
+
+- **Remember Your Settings**  
+  The application remembers your settings between sessions, so you don't need to reconfigure it every time you launch it.
+
+#### **Logs and System Tray:**
+
+- **View Log Entries**  
+  Monitor save operations directly within the app by viewing log entries. This allows you to keep track of all the save and restore activities handled by the application.
+
+- **Restore from System Tray**  
+  If the application is minimized to the system tray, you can easily restore it by double-clicking the tray icon.
+
+#### **Exiting:**
+
+- **Close the Application**  
+  Use the "Exit" option from the system tray context menu to close the application fully. This ensures that the application is not running in the background if you no longer need it.
+
 
 ### **Installation**
 
@@ -41,6 +78,7 @@ To get started with the EAFC24 Career Mode Save Extension:
 3. **Run the Application:**
    - Double-click the `EAFC24SaveExtension.exe` file to run the application. 
    - The application will automatically start managing your EAFC24 Career Mode saves, running quietly in the background.
+![image](https://github.com/user-attachments/assets/eee18278-d79b-442e-86d6-7e5e6e77283b)
 
 The application will now handle save management automatically, providing you with enhanced control over your Career Mode experience in EAFC24.
 
