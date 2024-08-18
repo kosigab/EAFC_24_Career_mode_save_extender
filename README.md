@@ -70,7 +70,7 @@
 To get started with the EAFC24 Career Mode Save Extension:
 
 1. **Download the Executable:**
-   - [Download the latest version](#) of the EAFC24 Career Mode Save Extension executable file (`EAFC24SaveExtension.exe`).
+   - [Download the latest version](https://raw.githubusercontent.com/kosigab/EAFC_24_Career_mode_save_extender/main/EAFC%2024%20Career%20mode%20save%20extention.exe) of the EAFC24 Career Mode Save Extension executable file (`EAFC24SaveExtension.exe`).
 
 2. **Save the File:**
    - Save the downloaded file to a location on your computer, preferably in your `Documents` folder or on your Desktop.
