@@ -1,0 +1,17 @@
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\bin\Debug\net8.0-windows\EAFC 24 Career mode save extention.exe
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\bin\Debug\net8.0-windows\EAFC 24 Career mode save extention.deps.json
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\bin\Debug\net8.0-windows\EAFC 24 Career mode save extention.runtimeconfig.json
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\bin\Debug\net8.0-windows\EAFC 24 Career mode save extention.dll
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\bin\Debug\net8.0-windows\EAFC 24 Career mode save extention.pdb
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC_24_Career_mode_save_extention.Form1.resources
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC_24_Career_mode_save_extention.Properties.Resources.resources
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.csproj.GenerateResource.cache
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.AssemblyInfoInputs.cache
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.AssemblyInfo.cs
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.csproj.CoreCompileInputs.cache
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.dll
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\refint\EAFC 24 Career mode save extention.dll
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.pdb
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\EAFC 24 Career mode save extention.genruntimeconfig.cache
+C:\Users\kosig\source\repos\EAFC 24 Career mode save extention\obj\Debug\net8.0-windows\ref\EAFC 24 Career mode save extention.dll
