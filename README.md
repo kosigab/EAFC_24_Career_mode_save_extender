@@ -1,68 +1,95 @@
-EAFC24 Career Mode Save Extension
-Overview
-EAFC24 Career Mode Save Extension is a mod designed to enhance the EAFC24 Career Mode experience by overcoming the game's restrictive save system. This tool allows players to maintain multiple autosaves, manage manual saves, and effectively back up and restore career progress, ensuring that your hard work is never lost.
+# **EAFC24 Career Mode Save Extension**
 
-Key Features
-Increased Autosave Capacity:
-Automatically backs up and manages multiple autosaves, allowing you to keep more than the default number of autosaves.
+### **Overview**
 
-Seamless Integration:
-Runs quietly in the background, automatically syncing and restoring save files as you play.
+**EAFC24 Career Mode Save Extension** is a mod designed to enhance the **EAFC24 Career Mode** experience by overcoming the game's restrictive save system. This tool allows players to maintain multiple autosaves, manage manual saves, and effectively back up and restore career progress, ensuring that your hard work is never lost.
 
-Customizable Settings:
-Easily configure the number of autosaves to keep, the frequency of backups, and other settings to match your preferences.
+### **Key Features**
 
-Log Management:
-Detailed logs track all save operations, with automatic log cleanup to manage log size.
+- **Increased Autosave Capacity**  
+  Automatically backs up and manages multiple autosaves, allowing you to keep more than the default number of autosaves.
 
-Auto-Start on Launch:
-Automatically adds the application to Windows startup, ensuring it runs whenever you start your computer.
+- **Seamless Integration**  
+  Runs quietly in the background, automatically syncing and restoring save files as you play.
 
-System Tray Integration:
-Minimizes to the system tray, allowing you to easily access or exit the application without interrupting gameplay.
+- **Customizable Settings**  
+  Easily configure the number of autosaves to keep, the frequency of backups, and other settings to match your preferences.
 
-Installation
-Clone the Repository:
+- **Log Management**  
+  Detailed logs track all save operations, with automatic log cleanup to manage log size.
 
-bash
-Copy code
-git clone https://github.com/yourusername/EAFC24-Career-Mode-Save-Extension.git
-Build the Project:
+- **Auto-Start on Launch**  
+  Automatically adds the application to Windows startup, ensuring it runs whenever you start your computer.
 
-Open the solution in Visual Studio.
-Build the project to create the executable.
-Run the Installer:
+- **System Tray Integration**  
+  Minimizes to the system tray, allowing you to easily access or exit the application without interrupting gameplay.
 
-Package the application using Visual Studio Installer Projects (optional).
-Install the application on your system.
-Usage
-Launch the Application:
+### **Installation**
 
-The application runs in the background and minimizes to the system tray after startup.
-It automatically starts managing your EAFC24 saves as you play.
-Configure Settings:
+## **Getting Started**
 
-Use the UI to set the number of autosaves you want to keep and adjust the backup frequency.
-Logs and System Tray:
+### **Quick Setup for Users**
 
-View log entries directly within the app to monitor save operations.
-Restore the application from the system tray by double-clicking the tray icon.
-Exiting:
+To get started with the EAFC24 Career Mode Save Extension:
 
-Use the “Exit” option from the system tray context menu to close the application fully.
-Why Use This Tool?
-Preserve Your Progress:
-Avoid losing progress by maintaining a robust set of autosaves and manual saves.
+1. **Download the Executable:**
+   - [Download the latest version](#) of the EAFC24 Career Mode Save Extension executable file (`EAFC24SaveExtension.exe`).
 
-Experiment Freely:
-Test different strategies and tactics in Career Mode without worrying about overwriting critical save points.
+2. **Save the File:**
+   - Save the downloaded file to a location on your computer, preferably in your `Documents` folder or on your Desktop.
 
-Enhanced Gameplay Experience:
-Enjoy a more flexible and stress-free Career Mode, knowing your game saves are safely backed up.
+3. **Run the Application:**
+   - Double-click the `EAFC24SaveExtension.exe` file to run the application. 
+   - The application will automatically start managing your EAFC24 Career Mode saves, running quietly in the background.
 
-Contributing
-Contributions are welcome! Please fork this repository and submit pull requests with any improvements or bug fixes.
+The application will now handle save management automatically, providing you with enhanced control over your Career Mode experience in EAFC24.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+---
 
+### **Developer Setup**
+
+If you are interested in modifying the code, building the project from source, or contributing to the development of the EAFC24 Career Mode Save Extension, follow these steps:
+
+#### **1. Clone the Repository**
+
+Clone the repository to your local machine using Git:
+
+### **2. Open the Solution in Visual Studio**
+
+- **Navigate to the cloned repository folder.**
+- **Open the solution file** (`EAFC24SaveExtension.sln`) **in Visual Studio.**
+
+### **3. Build the Project**
+
+- In Visual Studio, select **Build** > **Build Solution** or press `Ctrl + Shift + B`.
+- **Ensure there are no build errors.**
+
+### **4. Run the Application**
+
+- **Run the application** directly from Visual Studio by pressing `F5` or selecting **Debug** > **Start Debugging**.
+- **The application will function just like the downloaded executable**, but now you have access to the code for modification and testing.
+
+---
+
+### **Why Use This Tool?**
+
+- **Preserve Your Progress**  
+  Maintain multiple autosaves and manual saves to avoid losing important career progress.
+
+- **Experiment Freely**  
+  Test different strategies in Career Mode without worrying about overwriting critical save points.
+
+- **Enhanced Gameplay Experience**  
+  Enjoy a stress-free Career Mode with full control over your save files.
+
+---
+
+### **Contributing**
+
+**Contributions are welcome!** To contribute:
+
+1. **Fork this repository.**
+2. **Create a new branch** (`git checkout -b feature-branch`).
+3. **Make your changes and commit them** (`git commit -m 'Add some feature'`).
+4. **Push to the branch** (`git push origin feature-branch`).
+5. **Open a Pull Request.**
